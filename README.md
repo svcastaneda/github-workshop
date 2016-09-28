@@ -1,5 +1,5 @@
 # Github Workshop
-:octocat:
+:octocat: :tada:
 
 ### part 1
 1. Clone this repo
