@@ -1,5 +1,5 @@
 # Github Workshop
-:octocat:
+:octocat: :octomom:
 
 ### part 1
 1. Clone this repo
