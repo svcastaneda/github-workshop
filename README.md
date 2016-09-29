@@ -1,5 +1,6 @@
 # Github Workshop
-:octocat:
+
+Jack
 
 ### part 1
 1. Clone this repo
