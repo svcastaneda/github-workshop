@@ -1,5 +1,5 @@
 # Github Workshop
-Jack :octocat:
+:octocat: :heart:
 
 ### part 1
 1. Clone this repo
